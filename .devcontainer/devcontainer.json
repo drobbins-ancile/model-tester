@@ -1,5 +1,5 @@
 {
-	"name": "MCP Development Dev Container",
+	"name": "Development Dev Container",
 	"image": "mcr.microsoft.com/devcontainers/python:1-3.12-bullseye",
 	"features": {
 		"ghcr.io/devcontainers-contrib/features/black:2": {},
